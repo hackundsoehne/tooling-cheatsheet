@@ -6,7 +6,7 @@ We searched the far depths of the internet to bring you all the information you 
 
 ### Topics
 
-* General Info
+* [General Info](#general-info)
 * IDEs & Editors
 * Bash
 * Git
@@ -19,7 +19,7 @@ We searched the far depths of the internet to bring you all the information you 
 * Licenses
 
 
-## General Info
+## <a name="general-info">General Info</a>
 
 The best place to go for general advice about anything is probably the repository below. Quote:
 
