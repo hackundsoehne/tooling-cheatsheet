@@ -25,6 +25,6 @@ The best place to go for general advice about anything is probably the repositor
 
 > "Some useful websites for programmers.
 >
-> When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and > > learn new things. Here is a non exhaustive list of some sites you should visit."
+> When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit."
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
