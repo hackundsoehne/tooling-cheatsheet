@@ -18,7 +18,7 @@ Often times we will say one tool is better than another, with little to no expla
 * Bash
 * Git
 * Markdown
-* [Build Tools](#build-tools)
+* [Package Managers & Build Tools](#build-tools)
 * Continous Integration
 * Continous Delivery
 * Hosting Platforms
@@ -36,7 +36,7 @@ The best place to go for general advice about anything is probably the repositor
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
-## <a name="build-tools">Build Tools</a>
+## <a name="build-tools">Package Managers & Build Tools</a>
 
 ### Java
 * #### [Gradle](https://gradle.org/docs) (2012): 
