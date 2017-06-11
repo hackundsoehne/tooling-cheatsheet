@@ -55,7 +55,17 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * #### [Grunt](https://gruntjs.com/):
   Just like Gulp, but with more configuration to do. Stick with Gulp if you have to, but really you should be using webpack/rollup if you're using [ES6](https://github.com/lukehoban/es6features). (And if you have a choice, always go with ES6).
 ### Python
+* #### [pip](https://pip.pypa.io/en/stable/quickstart/)
+  Simply put, the package manager for python. It uses a file called *requirements.txt* to store dependencies, which you often have to create by hand. 
+* #### [PyBuilder](http://pybuilder.github.io/)
+  A build tool in python for python that has build lifecylces similar to ones found in maven/gradle. 
 ### Ruby
+* #### [RubyGems](http://guides.rubygems.org/rubygems-basics/)
+  A dependency in Ruby is called a Gem. RubyGems is the repository for ruby dependencies, but the actual dependency management is done with Bundler. 
+* #### [Bundler](http://bundler.io/)
+  The actual package manager for ruby. It uses a file called *Gemfile* to store dependencies. 
+* #### [Rake](https://ruby.github.io/rake/)
+  Rake is a Make-like program implemented in Ruby. Tasks and dependencies are specified in standard Ruby syntax.
 ### C/C++
 ### C#
 ### Haskell
