@@ -2,7 +2,14 @@
 
 Welcome to the curated software tooling cheat sheet. 
 
+Have you ever asked yourself: **"What is the best tool for this job?"**
+
 We searched the far depths of the internet to bring you all the information you need to get started with some of the major tools used in software engineering today. It is of course a non exhaustive list, so feel free to contribute! 
+
+### Disclaimer
+This document is **very opinionated**. Our goal is not to give you a detailed, unbiased report of exisiting tools, but rather to give a brief overview of what **in our experience** works best.
+
+Often times we will say one tool is better than another, with little to no explanation added. Sometimes there are valid reasons, in which case we do try to briefly elaborate, but sometimes that is not the case. We might simply say one tool is better than another because it has proven so through experience. 
 
 ### Topics
 
