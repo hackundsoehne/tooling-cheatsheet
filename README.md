@@ -32,7 +32,21 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 ## <a name="build-tools">Build Tools</a>
 
 ### Java
+* #### [Gradle](https://gradle.org/docs) (2012): 
+  Similar to Maven, but it has a [DSL](https://docs.gradle.org/current/userguide/writing_build_scripts.html) which makes the config files short, concise and easy to work with. You get the convention and structure from Maven, but with the flexibility of a real programming language instead of bulky XML. 
+* #### [Maven](https://maven.apache.org/) (2004):
+  Don't use maven unless you have to, it results in very big and cumbersome XML config files. Use Gradle instead.
 ### Javascript
+* #### [NPM](https://docs.npmjs.com/getting-started/what-is-npm): 
+  THE package manager used when dealing with Javascript/[ES6](https://github.com/lukehoban/es6features)/[Node.JS](https://nodejs.org/en/). This is not a build tool on its own, but it does provide "scripts" that can be executed to build the project.
+* #### [Webpack](https://webpack.js.org/):
+  THE "build tool" used when dealing with ES6/next-gen Javascript. Combined with [Babel](https://babeljs.io/) it transpiles the next-gen JS to common JS. Great for web development. For libraries use Rollup. Also supports hot reloading of changes.
+* #### [Rollup](https://rollupjs.org/):
+  Just like Webpack, but optimized for libraries. It creates smaller bundles with something called tree shaking.  
+* #### [Gulp](http://gulpjs.com/):
+  Gulp is a "task runner", which means it automates tasks like minification, compilation, unit testing, linting, etc. You write a "task" that does something, and Gulp runs it. This is not just bound to next-gen JS, but also works with common JS.
+* #### [Grunt](https://gruntjs.com/):
+  Just like Gulp, but with more configuration to do. Stick with Gulp.
 ### Python
 ### Ruby
 ### C/C++
