@@ -53,7 +53,7 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * #### [Gulp](http://gulpjs.com/):
   Gulp is a "task runner", which means it automates tasks like minification, compilation, unit testing, linting, etc. You write a "task" that does something, and Gulp runs it. This is not just bound to next-gen JS, but also works with common JS.
 * #### [Grunt](https://gruntjs.com/):
-  Just like Gulp, but with more configuration to do. Stick with Gulp.
+  Just like Gulp, but with more configuration to do. Stick with Gulp if you have to, but really you should be using webpack/rollup if you're using [ES6](https://github.com/lukehoban/es6features).
 ### Python
 ### Ruby
 ### C/C++
