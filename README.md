@@ -17,7 +17,7 @@ Often times we will say one tool is better than another, with little to no expla
 * IDEs & Editors
 * Bash
 * Git
-* Markdown
+* [Markdown](#markdown)
 * [Package Managers & Build Tools](#build-tools)
 * Continous Integration
 * Continous Delivery
@@ -35,6 +35,11 @@ The best place to go for general advice about anything is probably the repositor
 > When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit."
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+
+
+## <a name="markdown">Markdown</a>
+
+The official [GitHub Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for GitHub flavoured Markdown.
 
 ## <a name="build-tools">Package Managers & Build Tools</a>
 
@@ -69,3 +74,4 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 ### C/C++
 ### C#
 ### Haskell
+
