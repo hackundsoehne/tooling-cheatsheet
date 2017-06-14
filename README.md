@@ -77,11 +77,12 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
   Rake is a Make-like program implemented in Ruby. Tasks and dependencies are specified in standard Ruby syntax.
   
 ### C/C++
-* #### [Meson]()
+* #### [Meson](http://mesonbuild.com/Tutorial.html)
 * #### [CMake]()
 
 ### C#
-* #### [MSBuild]()
+* #### [MSBuild](https://github.com/Microsoft/msbuild)
+The build tool from Microsoft for C#/.NET/Mono. It has a XML config file and doesn't just run on Windows, but also Mac and Linux, wow! 
 
 ### Haskell
 * #### [Cabal]()
