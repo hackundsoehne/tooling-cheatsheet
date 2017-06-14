@@ -21,7 +21,7 @@ Often times we will say one tool is better than another, with little to no expla
 * [Package Managers & Build Tools](#build-tools)
 * Continous Integration
 * Continous Delivery
-* Hosting Platforms
+* [Hosting Platforms](#hosting-platforms)
 * Domains & SSL
 * Licenses
 
@@ -77,8 +77,28 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
   Rake is a Make-like program implemented in Ruby. Tasks and dependencies are specified in standard Ruby syntax.
   
 ### C/C++
+* #### [Meson]()
+* #### [CMake]()
 
 ### C#
+* #### [MSBuild]()
 
 ### Haskell
+* #### [Cabal]()
+* #### [Stack]()
+
+## <a name="hosting-platforms">Hosting Platforms</a>
+
+### Free
+* #### [GitHub-Pages]()
+* #### [Google Firebase]()
+
+### Fast & Cheap
+* #### [Digital Ocean]()
+* #### [Host1Plus]()
+
+### "The Big Guns"
+* #### [Azure]()
+* #### [AWS]()
+* #### [Google Cloud Platform]()
 
