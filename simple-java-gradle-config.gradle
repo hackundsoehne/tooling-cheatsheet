@@ -10,8 +10,8 @@ targetCompatibility = 1.8
 mainClassName = 'my.main.class'
 
 repositories {
-    // jcentral is a super set of maven central
-    jcentral()
+    // jcenter is a super set of maven central
+    jcenter()
 }
 
 // List all dependencies of the project
