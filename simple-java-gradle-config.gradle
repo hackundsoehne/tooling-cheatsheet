@@ -26,6 +26,6 @@ dependencies {
 // Configure the java jar plugin to build jars
 jar {
     manifest {
-        attributes 'Main-Class': mainClassName
+        attributes 'Main-Class': "$mainClassName"
     }
 }
