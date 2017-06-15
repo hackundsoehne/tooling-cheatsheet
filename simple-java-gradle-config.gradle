@@ -1,7 +1,7 @@
 group 'my.group.id'
 version '1.0'
 
-// Allows us to build jars, and implicitly applies the 'java' plugin as well. 
+// Allows us to build jars, and implicitly applies the 'java' plugin as well
 apply plugin: 'application'
 
 sourceCompatibility = 1.8
