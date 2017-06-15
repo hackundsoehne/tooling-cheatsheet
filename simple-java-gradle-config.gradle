@@ -29,6 +29,3 @@ jar {
         attributes 'Main-Class': mainClassName
     }
 }
-
-
-
