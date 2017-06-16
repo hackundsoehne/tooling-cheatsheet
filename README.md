@@ -11,6 +11,9 @@ This document is **very opinionated**. Our goal is not to give you a detailed, u
 
 Often times we will say one tool is better than another, with little to no explanation added. Sometimes there are valid reasons, in which case we do try to briefly elaborate, but sometimes that is not the case. We might simply say one tool is better than another because it has proven so through experience. 
 
+### Sample Configs
+We have included all kinds of sample config files for different tools in the ```sample-configs``` folder. They should get you up and running in no time. 
+
 ### Topics
 
 * [General Info](#general-info)
