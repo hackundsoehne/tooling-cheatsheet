@@ -18,6 +18,7 @@ We have included all kinds of sample config files for different tools in the ```
 
 * [General Info](#general-info)
 * [IDEs & Editors](#ides-editors)
+* Linters
 * Bash
 * Git
 * [Markdown](#markdown)
