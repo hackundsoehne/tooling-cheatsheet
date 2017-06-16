@@ -14,7 +14,7 @@ Often times we will say one tool is better than another, with little to no expla
 ### Topics
 
 * [General Info](#general-info)
-* IDEs & Editors
+* [IDEs & Editors](#ides-editors)
 * Bash
 * Git
 * [Markdown](#markdown)
@@ -36,6 +36,10 @@ The best place to go for general advice about anything is probably the repositor
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
+## <a name="ides-editors">IDEs & Editors</a>
+* #### [VIM for Humans](https://vimebook.com/en)
+  Very good introduction and explanation why and how to use Vim.  
+  **Recommendation**: Print any VIM-CheatSheet and place it near your desk, try out vim-keybindings in other editors.
 
 ## <a name="markdown">Markdown</a>
 
