@@ -98,18 +98,25 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 ## <a name="hosting-platforms">Hosting Platforms</a>
 
 ### Free
-* #### [GitHub-Pages]()
-* #### [Google Firebase]()
+* #### [GitHub-Pages](https://pages.github.com/)
+  A great place to store **static** sites. It's easy, and even supports custom domains, however no SSL with them. 
+* #### [Google Firebase (Spark)](https://firebase.google.com/pricing/)
+  Google Firebase is actually a mobile and web-application development platform, but it does also support **free static sites hosting**, even with a custom domain and SSL.
 
 ### Fast & Cheap
-* #### [Digital Ocean]()
-* #### [Host1Plus]()
+* #### [Digital Ocean](https://www.digitalocean.com/)
+  A great, easy-and-fast-to-setup solution. It is rather cheap, with their cheapest option being $5 a month. Their big bonus: they offer a ton pre-configured VMs (with things like, ubuntu, docker, etc. pre-installed). They work right of the box, and offer more advanced features like load balancing as well. As a student, you even get $50 off with an initial $5 purchase, through the [GitHub Student Pack](https://education.github.com/pack). 
+  
+* #### [Host1Plus](https://www.host1plus.com/)
+  Probably the cheapest VPS hosting I have seen to-date, with a VM costing only $2.25 a month! Probably the best option if you have a small server that you want to run that doesn't get a lot of traffic. 
 
 ### "The Big Guns"
-* #### [Azure]()
-* #### [AWS]()
-* #### [Google Cloud Platform]()
-
+* #### [Azure](https://azure.microsoft.com/en-us/)
+  I don't even know where to start. This has everything you can possibly dream of, and more. But it comes at a price: it is a huge pain to setup and maintain! It is one of the best services out there for serious projects, but I would not recommend it for a hobby project.. unless you sign up for [BizzSpark](https://bizspark.microsoft.com/), where you can get free credits. Azure is also not cheap, so beware.
+* #### [AWS](https://aws.amazon.com/)
+  Super powerful, I have never used it - we will add more later.
+* #### [Google Cloud Platform](https://cloud.google.com/products/)
+  Super powerful, I have never used it - we will add more later.
 
 ## <a name="domains">Domains & SSL </a>
 * #### [Namecheap](https://www.namecheap.com/)
