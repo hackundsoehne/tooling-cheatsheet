@@ -22,7 +22,7 @@ Often times we will say one tool is better than another, with little to no expla
 * Continous Integration
 * Continous Delivery
 * [Hosting Platforms](#hosting-platforms)
-* Domains & SSL
+* [Domains & SSL](#domains)
 * Licenses
 
 
@@ -103,3 +103,9 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * #### [AWS]()
 * #### [Google Cloud Platform]()
 
+
+## <a name="domains">Domains & SSL </a>
+* #### [Namecheap](https://www.namecheap.com/)
+  ...it's really cheap!
+* #### [Let's Encrypt](https://letsencrypt.org/getting-started/)
+  get free SSL certificates.
