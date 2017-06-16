@@ -119,7 +119,7 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
   Super powerful, I have never used it - we will add more later.
 
 ## <a name="domains">Domains & SSL </a>
-* #### [Godaddy](https://www.godaddy.com/)
+* #### [GoDaddy](https://www.godaddy.com/)
   The default. But not always cheap, eventhough it can be as well.
 * #### [Namecheap](https://www.namecheap.com/)
   ...it's really cheap!
