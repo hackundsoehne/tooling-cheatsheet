@@ -27,7 +27,6 @@ We have included all kinds of sample config files for different tools in the ```
 * Continous Delivery
 * [Hosting Platforms](#hosting-platforms)
 * [Domains & SSL](#domains)
-* Licenses
 
 
 ## <a name="general-info">General Info</a>
@@ -93,8 +92,11 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
   The build tool from Microsoft for C#/.NET/Mono. It has a XML config file and doesn't just run on Windows, but also Mac and Linux, wow! 
 
 ### Haskell
-* #### [Cabal]()
-* #### [Stack]()
+* #### [Cabal](https://www.haskell.org/cabal/)
+  Cabal is a simple build tool for haskell. While improving, it has some issues with reproducability and conflicting versions of the same package through mutiple projects.
+* #### [Stack](https://www.haskellstack.org/)
+  Stack improves on Cabal by requiring pinned GHC and package-version.
+  
 
 ## <a name="hosting-platforms">Hosting Platforms</a>
 
