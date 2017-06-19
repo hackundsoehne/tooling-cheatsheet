@@ -18,9 +18,9 @@ We have included all kinds of sample config files for different tools in the ```
 
 * [General Info](#general-info)
 * [IDEs & Editors](#ides-editors)
-* Linters
-* Bash
-* Git
+* [Linters](#linters)
+* [Bash](#bash)
+* [Git](#git)
 * [Markdown](#markdown)
 * [Package Managers & Build Tools](#build-tools)
 * Continous Integration
@@ -43,6 +43,13 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * #### [VIM for Humans](https://vimebook.com/en)
   Very good introduction and explanation why and how to use Vim.  
   **Recommendation**: Print any VIM-CheatSheet and place it near your desk, try out vim-keybindings in other editors.
+
+## <a name="bash">Bash</a>
+* A very good bash [cheat scheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f).
+
+## <a name="git">Git</a>
+* The official [GitHub Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for Git.
+* The official [GitHub Tutorial](https://try.github.io/levels/1/challenges/1) to learn Git. 
 
 ## <a name="markdown">Markdown</a>
 
@@ -123,8 +130,8 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 ## <a name="domains">Domains & SSL </a>
 * #### [GoDaddy](https://www.godaddy.com/)
-  The default. But not always cheap, eventhough it can be as well.
+  The default place to buy a domain. But not always cheap, eventhough it can be as well. It does offer super amazing support though.
 * #### [Namecheap](https://www.namecheap.com/)
-  ...it's really cheap!
+  You can also buy domains here.. but they are really cheap!
 * #### [Let's Encrypt](https://letsencrypt.org/getting-started/)
-  get free SSL certificates.
+  Great to get free SSL certificates.
