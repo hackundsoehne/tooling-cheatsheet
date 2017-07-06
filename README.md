@@ -23,7 +23,7 @@ We have included all kinds of sample config files for different tools in the ```
 * [Git](#git)
 * [Markdown](#markdown)
 * [Package Managers & Build Tools](#build-tools)
-* Continous Integration
+* [Continous Integration](#CI)
 * Continous Delivery
 * [Hosting Platforms](#hosting-platforms)
 * [Domains & SSL](#domains)
@@ -103,6 +103,21 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
   Cabal is a simple build tool for haskell. While improving, it has some issues with reproducability and conflicting versions of the same package through mutiple projects.
 * #### [Stack](https://www.haskellstack.org/)
   Stack improves on Cabal by requiring pinned GHC and package-version.
+  
+## <a name="CI">Continous Integration (CI)</a>
+Let's start of with what is CI? CI is a per the dictionary a process in software development of continuously redeploying and building software from source files.
+
+"Great, now what does it do and why do I care?" 
+Well, the exact functionality of CI tools obviously varies depending on the tool and its respective implementation. Luckily though, most CI services share core functionalities:
+* Building the software from source after git commits
+* Test the respective software using a specified testing methodology
+  * The building process can furthermore be configured to be interrupted (and hence canceled), if tests were not successfully passed
+* Continuously create documentation from source files
+* Deploying files automatically to a specified environment
+  * N.B.: This is != testing in production
+  
+
+  
   
 
 ## <a name="hosting-platforms">Hosting Platforms</a>
